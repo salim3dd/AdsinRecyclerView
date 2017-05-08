@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "668574197885",
+    "firebase_url": "https://myadsmob.firebaseio.com",
+    "project_id": "myadsmob",
+    "storage_bucket": "myadsmob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668574197885:android:3b491f1c6a317773",
+        "android_client_info": {
+          "package_name": "salim3dd.com.adsrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668574197885-3am05a3alahutbt9ic3dknln0m4vg3i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAISDSPM76b8Mo1NIYlEpiwUBn2IECwpqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
